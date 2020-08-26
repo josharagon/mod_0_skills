@@ -1,0 +1,11 @@
+Menu
+
+price (float)
+food_item (string)
+side_of_fries (boolean)
+allergies (boolean)
+
+add_combo (combines item prices, modifies price)
+no_tomatoes (removes tomato from food_item)
+add_fries (set side_of_fries as true)
+contains_peanuts (set allergies as true)
