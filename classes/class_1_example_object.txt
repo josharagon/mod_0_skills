@@ -1,0 +1,11 @@
+Slim Chicken's Menu
+
+price (10.29)
+food_item(chicken_sandwich)
+side_of_fries(true/false)
+number_of_menu_items(55)
+
+add_combo (13.28)
+no_tomatoes(chicken_sandwich_no_tomatoes)
+add_fries(true)
+add_menu_item (56)
