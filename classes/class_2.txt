@@ -1,0 +1,11 @@
+Dining Room
+
+number_of_tables (integer)
+floors_mopped (boolean)
+color_of_walls (string)
+number_of_chairs_at_tables (array)
+
+combine_tables (subtract 1 from number_of_tables)
+mop_floors (set floors_mopped as true)
+paint_walls(change color_of_walls string data to new color)
+add_chair (subtract 1 chair from table a, add 1 chair to table b)

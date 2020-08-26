@@ -1,0 +1,11 @@
+Texas Road House's Dining Room
+
+number_of_tables (15)
+floors_mopped(false)
+color_of_walls(brown)
+number_of_chairs_at_tables ([4, 5, 2, 6, 8, 4, 3])
+
+combine_tables = number_of_tables: (14)
+mop_floors = floors_mopped:(true)
+paint_walls = color_of_walls:(forest_green)
+add_chair = number_of_chairs_at_tables ([3, 6, 2, 6, 8, 4, 3])
