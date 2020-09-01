@@ -1,11 +1,13 @@
 Menu
 
+Attributes:
 price (float)
 food_item (string)
 side_of_fries (boolean)
-allergies (boolean)
+number_of_menu_items (integer)
 
-add_combo (combines item prices, modifies price)
+Methods:
+add_combo (add 2.99 onto price)
 no_tomatoes (removes tomato from food_item)
 add_fries (set side_of_fries as true)
-contains_peanuts (set allergies as true)
+add_menu_item (adds 1 to number of items on menu)
