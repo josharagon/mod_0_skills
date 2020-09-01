@@ -1,14 +1,14 @@
 var food = 'pizza';
 var is_delicious = 'true';
-var food = "pasta"
+var food = 'pasta';
 
-let num2 = "62";
-let num7 = "43";
+let num2 = '62';
+let num7 = '43';
 console.log(num2 / num7);
-var quotient = "1.441860465116279"
+var quotient = '1.441860465116279';
 
 const songs = ['One', 'Sandman', 'Puppet'];
-const firstElement = songs.shift(1);
+songs.shift(1);
 console.log(songs);
 
 console.log(`${food} ${food.length}`);
